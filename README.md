@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ReactJS, JavaScript, Python**
 
-- 📫 How to reach me **a4ratre@gmail.com**
+- 📫 How to reach me:  **[LinkedIn](https://www.linkedin.com/in/ashish-ratre/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
