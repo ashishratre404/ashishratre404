@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ashish Ratre</h1>
 <h3 align="center">A passionate website developer from India</h3>
-<p>I'm Ashish, a final year undergrad at DY Patil International University, Pune. An enthusiastic student with highly motivated and leadership quality exploring Computer Science and trying hand on new technologies.</p>
+<p>Full Stack Developer with a strong focus on frontend development, specializing in JavaScript, React.js, and modern web technologies. I have a solid foundation in Data Structures and Algorithms, demonstrated by solving 500+ problems on LeetCode. With hands-on experience as a Software Engineer, I enjoy building scalable, efficient, and user-focused applications.</p>
+<p>
+Currently, I am expanding my skill set into Artificial Intelligence and Machine Learning, exploring areas such as LLMs, RAG, agents, and AI-driven applications. I’m passionate about bridging the gap between frontend engineering and AI, creating tools that blend great user experiences with intelligent systems.</p>
 
  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"> 
 
