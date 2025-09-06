@@ -9,9 +9,9 @@ Currently, I am expanding my skill set into Artificial Intelligence and Machine 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishratre404&label=Profile%20views&color=0e75b6&style=flat" alt="ashishratre404" /> </p>
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning:  **AI, Lnagchian, RAG, etc.**
 
-- 💬 Ask me about **ReactJS, JavaScript, Python**
+- 💬 Ask me about: **ReactJS, JavaScript, Python**
 
 - 📫 How to reach me:  **[LinkedIn](https://www.linkedin.com/in/ashish-ratre/)**
 
