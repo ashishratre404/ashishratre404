@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ashish Ratre</h1>
 <h3 align="center">Software Engineer specializing in React, TypeScript, and AI-powered Web Applications</h3>
-<p>Full Stack Developer with a strong focus on frontend development, specializing in JavaScript, React.js, and modern web technologies. I have a solid foundation in Data Structures and Algorithms, demonstrated by solving 500+ problems on LeetCode. With hands-on experience as a Software Engineer, I enjoy building scalable, efficient, and user-focused applications.</p>
-<p>
-Currently, I am expanding my skill set into Artificial Intelligence and Machine Learning, exploring areas such as LLMs, RAG, agents, and AI-driven applications. I’m passionate about bridging the gap between frontend engineering and AI, creating tools that blend great user experiences with intelligent systems.</p>
+<p>Software Engineer with 3+ years of experience building scalable web applications using React, TypeScript, Next.js, and JavaScript.
+
+I specialize in creating high-performance frontend experiences and have recently expanded into AI engineering using OpenAI APIs, LangChain, and Retrieval-Augmented Generation (RAG).
+
+I'm passionate about building products that combine modern frontend engineering with practical AI solutions..</p>
 
  <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif"> 
 
