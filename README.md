@@ -11,7 +11,7 @@ I'm passionate about building products that combine modern frontend engineering 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishratre404&label=Profile%20views&color=0e75b6&style=flat" alt="ashishratre404" /> </p>
 
-- 🌱 I’m currently learning:  **AI, Lnagchian, RAG, etc.**
+- 🌱 I’m currently learning:  **AI, LangChain, RAG, etc.**
 
 - 💬 Ask me about: **ReactJS, JavaScript, Python**
 
